@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react'
-import PropTypes from 'prop-types'
+//import defaultProps from 'prop-types'
 import { useState } from 'react'
 
 const UserForm = ({ handleSubmitData, btnText, selectedUser }) => {
